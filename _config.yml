@@ -16,7 +16,7 @@
 title: DigiMatt
 email: mathieu.deschaine@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Perspectives on digital archives and digital preservation.
+  Perspectives on archives and digital preservation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChewChewTrain
