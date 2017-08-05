@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Steps Into a Larger World"
+title:  "First Step Into a Larger World"
 date:   2017-08-04 17:19:36 -0700
 categories: blog
 ---
