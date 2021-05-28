@@ -5,3 +5,11 @@ date: "2021-05-28 02:12:12 -0700"
 categories: blog
 ---
 ## Let's Go.
+<div id="mirador"></div>
+    <script type="text/javascript">
+      const mirador = Mirador.viewer({
+        id: "mirador",
+        // All of the settings (with descriptions (ﾉ^∇^)ﾉﾟ) located here:
+        // https://github.com/ProjectMirador/mirador/blob/master/src/config/settings.js
+      });
+    </script>
