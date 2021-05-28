@@ -16,3 +16,22 @@ categories: blog
         // https://github.com/ProjectMirador/mirador/blob/master/src/config/settings.js
       });
     </script>
+    <hr>
+
+    <div id="mirador2"></div>
+
+    <script type="text/javascript">
+      Mirador.viewer({
+        id: "mirador2",
+        // Look you can open up Mirador with windows!!
+        windows: [
+          {
+            manifestId: 'https://purl.stanford.edu/dy727pk7274/iiif/manifest'
+          },
+          {
+            manifestId: 'https://iiif.bodleian.ox.ac.uk/iiif/manifest/faeff7fb-f8a7-44b5-95ed-cff9a9ffd198.json',
+            canvasIndex: 75
+          },
+        ]
+      });
+    </script>
