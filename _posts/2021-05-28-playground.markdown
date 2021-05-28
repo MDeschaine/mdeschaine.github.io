@@ -5,6 +5,9 @@ date: "2021-05-28 02:12:12 -0700"
 categories: blog
 ---
 ## Let's Go.
+
+<script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+
 <div id="mirador"></div>
     <script type="text/javascript">
       const mirador = Mirador.viewer({
